@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 test merge.
 testing remote conflict when others push.
+Others update this file.
